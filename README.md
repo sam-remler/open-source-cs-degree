@@ -1,3 +1,4 @@
+```
 open-source-cs-degree/
 │
 ├── README.md                  ← Overview of the entire program
@@ -21,3 +22,4 @@ open-source-cs-degree/
     ├── memory-allocator/
     ├── web-crawler/
     └── ...
+```
